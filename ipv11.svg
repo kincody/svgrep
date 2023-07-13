@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg"
+<svg width='4000' height='240'   xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-     viewBox="0 0 250 250">
+    viewBox="0 0 1000 60" >
 <g>
-   <text x="16" y="55" style="color:black;fill:black;font-size:3px;font-family: Helvetica, Verdana, sans-serif;">16,777,216  networks each network contains 16,777,216 hosts</text>
+   <text x="16" y="55" style="color:black;fill:black;font-size:3px;font-family: Helvetica, Verdana, sans-serif;">16,777,216  networks: Each network contains 16,777,216 hosts</text>
 </g>    
 <svg version="1.1"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
@@ -43,7 +43,7 @@
 </svg>
    
 <g >   
-<text x="16" y="40" style="color:black;fill:black;font-size:3px;font-family: Helvetica, Verdana, sans-serif;">16,777,216  blocks each  block contains 16,777,216 neworks X 16,777,216 hosts</text>
+<text x="16" y="40" style="color:black;fill:black;font-size:3px;font-family: Helvetica, Verdana, sans-serif;">16,777,216  blocks: Each  block contains 16,777,216 neworks X 16,777,216 hosts</text>
 </g>
 <svg version="1.1"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
@@ -81,7 +81,7 @@
 <rect id="_x31__1_" x="26.946" y="110.625" transform="matrix(0.8199 0.5724 -0.5724 0.8199 78.3695 -26.9081)" fill="#FFFFFF" width="110.026" height="1"/>
 </svg>
 <g >   
-<text x="16" y="25" style="color:black;fill:black;font-size:3px;font-family: Helvetica, Verdana, sans-serif;">16,777,216 super blocks each super block contains 16,777,216 block X 16,777,216 neworks X  16,777,216 hosts</text>
+<text x="16" y="25" style="color:black;fill:black;font-size:3px;font-family: Helvetica, Verdana, sans-serif;">16,777,216 super blocks: Each super block contains 16,777,216 block X 16,777,216 neworks X  16,777,216 hosts</text>
 </g>
 <svg version="1.1"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
@@ -120,7 +120,7 @@
 <rect id="_x31__1_" x="26.946" y="110.625" transform="matrix(0.8199 0.5724 -0.5724 0.8199 78.3695 -26.9081)" fill="#FFFFFF" width="110.026" height="1"/>
 </svg>
 <g >   
-<text x="16" y="10" style="color:back;fill:black;font-size:3px;font-family: Helvetica, Verdana, sans-serif;">16,777,216 hyper blocks each hyper block contains 16,777,216 super blocks X 16,777,216 block X 16,777,216 neworks X 16,777,216 hosts</text>
+<text x="16" y="10" style="color:back;fill:black;font-size:3px;font-family: Helvetica, Verdana, sans-serif;">16,777,216 hyper blocks: Each hyper block contains 16,777,216 super blocks X 16,777,216 block X 16,777,216 neworks X 16,777,216 hosts</text>
 </g>
 <svg version="1.1"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
@@ -157,5 +157,4 @@
 <rect id="_x32__1_" x="83.161" y="56.112" transform="matrix(0.5722 0.8201 -0.8201 0.5722 126.9337 -21.0696)" fill="#FFFFFF" width="1" height="110.026"/>
 <rect id="_x31__1_" x="26.946" y="110.625" transform="matrix(0.8199 0.5724 -0.5724 0.8199 78.3695 -26.9081)" fill="#FFFFFF" width="110.026" height="1"/>
 </svg>
-
 </svg>  
