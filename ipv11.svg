@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 1000 64" >
+    viewBox="0 0 1000 304" >
 <g>
-   <text x="490" y="55" style="color:black;fill:black;font-size:3px;font-family: Helvetica, Verdana, sans-serif;">16,777,216  networks: Each network contains 16,777,216 hosts</text>
+   <text x="80" y="250" style="color:black;fill:black;font-size:10px;font-family: Helvetica, Verdana, sans-serif;">16,777,216  networks: Each network contains 16,777,216 hosts</text>
 </g>    
 <svg version="1.1"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0" y="45" viewBox="0 0 600 600" enable-background="new 0 0 167 168" xml:space="preserve">
+	 x="-350" y="210" viewBox="0 0 650 650" enable-background="new 0 0 167 168" xml:space="preserve">
 <defs>
 </defs>
 
-<linearGradient id="_x31_9_2_" gradientUnits="userSpaceOnUse" x1="0" y1="100.2334" x2="166.98" y2="100.2334">
+<linearGradient id="_x31_9_1_" gradientUnits="userSpaceOnUse" x1="0" y1="100.2334" x2="166.98" y2="100.2334">
 	<stop  offset="0" style="stop-color:#1B4A78"/>
 	<stop  offset="1" style="stop-color:#5DACD1"/>
 </linearGradient>
-<path fill="url(#_x31_9_2_)" d="M166.98,32.467c0,17.937-37.387,32.467-83.49,32.467
+<path fill="url(#_x31_9_1_)" d="M166.98,32.467c0,17.937-37.387,32.467-83.49,32.467
 	C37.379,64.934,0,50.403,0,32.467v103.066C0,153.469,37.379,168,83.49,168c46.103,0,83.49-14.531,83.49-32.467V32.467z"/>
 <path fill="#3A78A0" d="M83.49,64.934c46.103,0,83.49-14.53,83.49-32.467C166.98,14.531,129.593,0,83.49,0
 	C37.379,0,0,14.531,0,32.467C0,50.403,37.379,64.934,83.49,64.934z"/>
@@ -43,11 +43,11 @@
 </svg>
    
 <g >   
-<text x="490" y="40" style="color:black;fill:black;font-size:3px;font-family: Helvetica, Verdana, sans-serif;">16,777,216  blocks: Each  block contains 16,777,216 neworks X 16,777,216 hosts</text>
+<text x="80" y="180" style="color:black;fill:black;font-size:10px;font-family: Helvetica, Verdana, sans-serif;">16,777,216  blocks: Each  block contains 16,777,216 neworks X 16,777,216 hosts</text>
 </g>
 <svg version="1.1"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0" y="30" viewBox="0 0 650 650" enable-background="new 0 0 167 168" xml:space="preserve">
+	 x="-350" y="140" viewBox="0 0 650 650" enable-background="new 0 0 167 168" xml:space="preserve">
 <defs>
 </defs>
 <linearGradient id="_x31_9_2_" gradientUnits="userSpaceOnUse" x1="0" y1="100.2334" x2="166.98" y2="100.2334">
@@ -81,19 +81,19 @@
 <rect x="26.946" y="110.625" transform="matrix(0.8199 0.5724 -0.5724 0.8199 78.3695 -26.9081)" fill="#FFFFFF" width="110.026" height="1"/>
 </svg>
 <g >   
-<text x="490" y="25" style="color:black;fill:black;font-size:3px;font-family: Helvetica, Verdana, sans-serif;">16,777,216 super blocks: Each super block contains 16,777,216 block X 16,777,216 neworks X  16,777,216 hosts</text>
+<text x="80" y="110" style="color:black;fill:black;font-size:10px;font-family: Helvetica, Verdana, sans-serif;">16,777,216 super blocks: Each super block contains 16,777,216 block X 16,777,216 neworks X  16,777,216 hosts</text>
 </g>
 <svg version="1.1"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0" y="15" viewBox="0 0 650 650" enable-background="new 0 0 167 168" xml:space="preserve">
+	 x="-350" y="70" viewBox="0 0 650 650" enable-background="new 0 0 167 168" xml:space="preserve">
 <defs>
 </defs>
 
-<linearGradient id="_x31_9_2_" gradientUnits="userSpaceOnUse" x1="0" y1="100.2334" x2="166.98" y2="100.2334">
+<linearGradient id="_x31_9_3_" gradientUnits="userSpaceOnUse" x1="0" y1="100.2334" x2="166.98" y2="100.2334">
 	<stop  offset="0" style="stop-color:#1B4A78"/>
 	<stop  offset="1" style="stop-color:#5DACD1"/>
 </linearGradient>
-<path fill="url(#_x31_9_2_)" d="M166.98,32.467c0,17.937-37.387,32.467-83.49,32.467
+<path fill="url(#_x31_9_3_)" d="M166.98,32.467c0,17.937-37.387,32.467-83.49,32.467
 	C37.379,64.934,0,50.403,0,32.467v103.066C0,153.469,37.379,168,83.49,168c46.103,0,83.49-14.531,83.49-32.467V32.467z"/>
 <path fill="#3A78A0" d="M83.49,64.934c46.103,0,83.49-14.53,83.49-32.467C166.98,14.531,129.593,0,83.49,0
 	C37.379,0,0,14.531,0,32.467C0,50.403,37.379,64.934,83.49,64.934z"/>
@@ -120,18 +120,18 @@
 <rect x="26.946" y="110.625" transform="matrix(0.8199 0.5724 -0.5724 0.8199 78.3695 -26.9081)" fill="#FFFFFF" width="110.026" height="1"/>
 </svg>
 <g >   
-<text x="490" y="10" style="color:back;fill:black;font-size:3px;font-family: Helvetica, Verdana, sans-serif;">16,777,216 hyper blocks: Each hyper block contains 16,777,216 super blocks X 16,777,216 block X 16,777,216 neworks X 16,777,216 hosts</text>
+<text x="80" y="40" style="color:back;fill:black;font-size:10px;font-family: Helvetica, Verdana, sans-serif;">16,777,216 hyper blocks: Each hyper block contains 16,777,216 super blocks X 16,777,216 block X 16,777,216 neworks X 16,777,216 hosts</text>
 </g>
 <svg version="1.1"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0" y="0" viewBox="0 0 650 650" enable-background="new 0 0 167 168" xml:space="preserve">
+	 x="-350" y="0" viewBox="0 0 650 650" enable-background="new 0 0 167 168" xml:space="preserve">
 <defs>
 </defs>
-<linearGradient id="_x31_9_2_" gradientUnits="userSpaceOnUse" x1="0" y1="100.2334" x2="166.98" y2="100.2334">
+<linearGradient id="_x31_9_4_" gradientUnits="userSpaceOnUse" x1="0" y1="100.2334" x2="166.98" y2="100.2334">
 	<stop  offset="0" style="stop-color:#1B4A78"/>
 	<stop  offset="1" style="stop-color:#5DACD1"/>
 </linearGradient>
-<path fill="url(#_x31_9_2_)" d="M166.98,32.467c0,17.937-37.387,32.467-83.49,32.467
+<path fill="url(#_x31_9_4_)" d="M166.98,32.467c0,17.937-37.387,32.467-83.49,32.467
 	C37.379,64.934,0,50.403,0,32.467v103.066C0,153.469,37.379,168,83.49,168c46.103,0,83.49-14.531,83.49-32.467V32.467z"/>
 <path fill="#3A78A0" d="M83.49,64.934c46.103,0,83.49-14.53,83.49-32.467C166.98,14.531,129.593,0,83.49,0
 	C37.379,0,0,14.531,0,32.467C0,50.403,37.379,64.934,83.49,64.934z"/>
